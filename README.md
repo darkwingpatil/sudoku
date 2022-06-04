@@ -1,3 +1,3 @@
-# helloworld
+# SUDOKU CODE 
 
 //JS CODE FOR RUNNING SUDOKU
